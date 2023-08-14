@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=godmnathan&label=Profile%20views&color=0e75b6&style=flat" alt="godmnathan" /> </p>
 
-- 🔭 I’m currently working on **Grupo GIAP**
+- 🔭 I’m currently working on **SISP Technology S/A**
 
 - 🌱 I’m currently learning **Java with Spring Boot**
 
-- 📫 How to reach me **godmnathan@code.com**
+- 📫 How to reach me **godmnathan.code@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
