@@ -1,13 +1,13 @@
 <div align="center">
   <h2>Java Developer</h2>
   <p>
-   🚀I’m currently working on SISP Technology S/A as a Oracle Software Developer</strong>
+   🚀I’m currently working on Grupo Giap as an Oracle Software Developer</strong>
   </p>
 </div>
 
 <div align="center">
   <p>🌱 Ongoing technical and higher education in Analysis and Systems Development</p>
-  <p>💬 Ask me about <strong>JSpring Boot | Angular | PL/SQL | Docker | AWS | OCP orclAPEX</strong></p>
+  <p>💬 Ask me about <strong>JSpring Boot | Angular | PL/SQL | Docker | AWS | orclAPEX</strong></p>
 </div>
 
 <div align = "center">
