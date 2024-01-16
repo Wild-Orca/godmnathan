@@ -1,15 +1,94 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=godmnathan&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+<div align="center">
+  <h2>Java Developer</h2>
+  <p>
+   🚀I’m currently working on SISP Technology S/A as a Oracle Software Developer</strong>
+  </p>
+</div>
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Nathan Godoy&color=f8efd4&style=for-the-badge&logo=GitHub" alt="ilustração do nome">
+<div align="center">
+  <p>🌱 Ongoing technical and higher education in Analysis and Systems Development</p>
+  <p>💬 Ask me about <strong>JSpring Boot | Angular | PL/SQL | Docker | AWS | OCP orclAPEX</strong></p>
+</div>
 
-<p>I’m currently working on SISP Technology S/A as a Oracle Software Developer</p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nathanmgodoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathanmgodoy" height="30" width="40" /></a>
-</p>
+<div align = "center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+[<img src ="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">](https://godmnathan.github.io)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/nathanmgodoy/)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/nathanmgodoy)
+</div>
+
+<div align="center" style="display: flex; justify-content: space-around;">
+    <div style="text-align: center;">
+    <h2>ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs</h2>
+    <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48"/>
+    </a>
+    <a href="https://seu-link-do-java">
+        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" width="48"/>
+    <a href="https://spring.io/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" width="48"/>
+    </a>
+    </a>
+        <a href="https://www.oracle.com/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle" width="48"/>
+    </a>
+    </div>
+    <div style="text-align: center;" style="display: flex; justify-content: space-around;">
+        <h2>   ʟɪᴄᴇɴsᴇs ᴀɴᴅ ᴄᴇʀᴛɪꜰɪᴄᴀᴛᴇs   </h2>
+    </div>
+
+</div>
+
+<!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Kiran1689">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=godmnathan&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>ᴛᴏᴘ ʟᴀɴɢᴜᴀɢᴇs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Kiran1689">
+          <img align="center"  width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godmnathan&theme=nightowl&layout=compact" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Kiran1689/cryptos">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=godmnathan&repo=cryptos&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Kiran1689">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=godmnathan&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=godmnathan&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+</div>
 
 
-<hr>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Facebook!;I'm+always+down+to+collab+:)">
+</h3>
