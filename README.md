@@ -33,10 +33,6 @@
         <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle" width="48"/>
     </a>
     </div>
-    <div style="text-align: center;" style="display: flex; justify-content: space-around;">
-        <h2>   ʟɪᴄᴇɴsᴇs ᴀɴᴅ ᴄᴇʀᴛɪꜰɪᴄᴀᴛᴇs   </h2>
-    </div>
-
 </div>
 
 <!--Github stats Table--> 
