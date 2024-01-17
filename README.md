@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <p>🌱 Ongoing technical and higher education in Analysis and Systems Development</p>
+  <p>🌱 Completed technical level education and ongoing higher education in Analysis and Systems Development</p>
   <p>💬 Ask me about <strong>Java | Spring Boot | Angular | PL/SQL | Docker | AWS | orclAPEX</strong></p>
 </div>
 
