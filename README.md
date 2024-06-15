@@ -9,7 +9,7 @@
   <p>🌱 Completed technical level education and ongoing higher education in Analysis and Systems Development</p>
   <p>💬 Ask me about <strong>PL/SQL | Python | Generative AI | SQL | Machine Learning | Deep Learning | orclAPEX</strong></p>
 </div>
-<br>
+<br><br>
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
