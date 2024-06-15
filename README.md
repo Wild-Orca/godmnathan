@@ -10,11 +10,6 @@
   <p>💬 Ask me about <strong>PL/SQL | Python | Generative AI | SQL | Machine Learning | Deep Learning | orclAPEX</strong></p>
 </div>
 
-<div align = "center">
-  [<img src ="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor==white&color=black">](https://github.com/godmnathan)
-  [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/nathanmgodoy/)
-</div>
-
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
