@@ -1,13 +1,13 @@
 <div align="center">
-  <h2>Java Developer</h2>
+  <h2>Software Developer</h2>
   <p>
-   🚀I’m currently working on Grupo Giap as an Oracle Software Developer</strong>
+   🚀I’m currently working at Pictet Technologies as a Software Developer</strong>
   </p>
 </div>
 
 <div align="center">
   <p>🌱 Completed technical level education and ongoing higher education in Analysis and Systems Development</p>
-  <p>💬 Ask me about <strong>Java | Spring Boot | Angular | PL/SQL | Docker | AWS | orclAPEX</strong></p>
+  <p>💬 Ask me about <strong>PL/SQL | Python | Generative AI | SQL | Machine Learning | Deep Learning | orclAPEX</strong></p>
 </div>
 
 <div align = "center">
