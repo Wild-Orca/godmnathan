@@ -17,24 +17,6 @@
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/nathanmgodoy)
 </div>
 
-<div align="center" style="display: flex; justify-content: space-around;">
-    <div style="text-align: center;">
-    <h2>ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs</h2>
-    <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48"/>
-    </a>
-    <a href="https://seu-link-do-java">
-        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" width="48"/>
-    <a href="https://spring.io/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" width="48"/>
-    </a>
-    </a>
-        <a href="https://www.oracle.com/" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle" width="48"/>
-    </a>
-    </div>
-</div>
-
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
